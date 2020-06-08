@@ -1,0 +1,10 @@
+D:\User\Documents\내꼬\Coding\School\CMPE2800\GDI+\Asteroids\Lab_Astroids\bin\Debug\Lab_Astroids.exe.config
+D:\User\Documents\내꼬\Coding\School\CMPE2800\GDI+\Asteroids\Lab_Astroids\bin\Debug\Lab_Astroids.exe
+D:\User\Documents\내꼬\Coding\School\CMPE2800\GDI+\Asteroids\Lab_Astroids\bin\Debug\Lab_Astroids.pdb
+D:\User\Documents\내꼬\Coding\School\CMPE2800\GDI+\Asteroids\Lab_Astroids\obj\Debug\Asteroids.csprojAssemblyReference.cache
+D:\User\Documents\내꼬\Coding\School\CMPE2800\GDI+\Asteroids\Lab_Astroids\obj\Debug\Lab_Astroids.Form1.resources
+D:\User\Documents\내꼬\Coding\School\CMPE2800\GDI+\Asteroids\Lab_Astroids\obj\Debug\Lab_Astroids.Properties.Resources.resources
+D:\User\Documents\내꼬\Coding\School\CMPE2800\GDI+\Asteroids\Lab_Astroids\obj\Debug\Asteroids.csproj.GenerateResource.cache
+D:\User\Documents\내꼬\Coding\School\CMPE2800\GDI+\Asteroids\Lab_Astroids\obj\Debug\Asteroids.csproj.CoreCompileInputs.cache
+D:\User\Documents\내꼬\Coding\School\CMPE2800\GDI+\Asteroids\Lab_Astroids\obj\Debug\Lab_Astroids.exe
+D:\User\Documents\내꼬\Coding\School\CMPE2800\GDI+\Asteroids\Lab_Astroids\obj\Debug\Lab_Astroids.pdb
